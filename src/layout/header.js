@@ -17,7 +17,7 @@ const Header = () => {
                     name="NicoPrevoo"
                     hidden={true}
                     title="naar de homepage van NicoPrevoo.nl">
-                    Nico Prevoo<br/>Nr 2 VVD Sint-Michielsgestel
+                    Nico Prevoo
                 </Link>
             </Box>
             <Box mx="auto" />
